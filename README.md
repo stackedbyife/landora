@@ -2,7 +2,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-in--development-yellow)
+![Status](https://img.shields.io/badge/status-deployed-brightgreen)
 
 Landora is a powerful and intuitive **estate management platform** built with Laravel. It provides a comprehensive system for managing properties, tenants, leases, maintenance requests, and user roles — ideal for real estate companies, agents, and landlords.
 
